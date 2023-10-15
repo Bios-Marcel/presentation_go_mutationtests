@@ -131,6 +131,12 @@ ok  ./examples/...  0.201s  coverage: 100.0% of statements
 
 ---
 
+## 100% Coverage - Improvements
+
+*Transition to VSCode*
+
+---
+
 ## Example - Custom Mutations
 
 *Transition to VSCode*
